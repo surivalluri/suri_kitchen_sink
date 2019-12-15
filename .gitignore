@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/HostedServiceCheck/bin/Debug
+/HostedServiceCheck/obj
+/MyWorkerService
+/TestApp/bin/Debug/netcoreapp2.2
+/TestApp/obj
+/TestHostedServiceApp
